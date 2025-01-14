@@ -50,7 +50,6 @@ round-avatar: true
 social-network-links:
   email: "ethanstonelewis@gmail.com"
   linkedin: www.linkedin.com/in/ethanstonelewis
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
   github: ELew-Dev
 
  
