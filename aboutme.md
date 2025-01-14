@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Hey there! I'm Ethan
+subtitle: Hey there, I'm Ethan!
 ---
 
 Though I currently call Massachusetts home, my story is one of creativity, curiosity, and problem-solving shaped by experiences near and far. I earned my Associate's in Liberal Arts before graduating from Bridgewater State University in 2024 with a Bachelor's in Communications. Now, I’m pursuing a Master of Science in Computer Science at Merrimack College, focusing on Software Engineering.
