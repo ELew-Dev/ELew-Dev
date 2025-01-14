@@ -4,7 +4,7 @@ title: About me
 subtitle: Hey there, I'm Ethan!
 ---
 
-Though I currently call Massachusetts home, my story is one of creativity, curiosity, and problem-solving shaped by experiences near and far. I earned my Associate's in Liberal Arts before graduating from Bridgewater State University in 2024 with a Bachelor's in Communications. Now, I’m pursuing a Master of Science in Computer Science at Merrimack College, focusing on Software Engineering.
+Though I currently call Massachusetts home, my story is one of creativity, curiosity, and problem-solving shaped by experiences near and far. I earned my Associate's in Liberal Arts at Bristol Community College before graduating from Bridgewater State University in 2024 with a Bachelor's in Communications. Now, I’m pursuing a Master of Science in Computer Science at Merrimack College, focusing on Software Engineering.
 
 My upbringing was enriched by a blend of the trades and the arts, thanks to the family and friends around me. I’ve spent countless hours working on anything “with power running through it”—from generators, to computers and other complex systems. At the same time, I grew up watching my mom direct plays and teach dance, which gave me a deep appreciation for storytelling and creativity.
 
