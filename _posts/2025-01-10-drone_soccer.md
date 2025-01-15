@@ -5,5 +5,5 @@ subtitle: "The repair process for Drone Soccer"
 author: "Ethan Lewis"
 ---
 
-## Check back soon for this blog post! {: .box-success}
+## Check back soon for this blog post! {: .box-success }
 
