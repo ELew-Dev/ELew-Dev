@@ -4,7 +4,7 @@ title: About me
 subtitle: Hey there, I'm Ethan!
 ---
 
-![Ethan's Photo](https://github.com/ELew-Dev/ELew-Dev/blob/master/assets/img/my.photo.JPG?raw=true)
+![Ethan's Photo](https://github.com/ELew-Dev/ELew-Dev/blob/master/assets/img/my.photo copy.JPG?raw=true)
 
 
 Though I currently call Massachusetts home, my story is one of creativity, curiosity, and problem-solving shaped by experiences near and far. I earned my Associate's in Liberal Arts at Bristol Community College before graduating from Bridgewater State University in 2024 with a Bachelor's in Communications. Now, I’m pursuing a Master of Science in Computer Science at Merrimack College, focusing on Software Engineering.
