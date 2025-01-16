@@ -7,4 +7,4 @@ author: "Ethan Lewis"
 
 ## Check back soon for this blog post! 
 
-I am currently in the process of gathering all of the images, videos, and specs I collected during the process.
+I am currently compiling the images, videos, and specifications I gathered throughout the process.
