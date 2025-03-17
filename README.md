@@ -17,7 +17,6 @@ I'm a **software developer** with a strong interest in **AI, Machine Learning, a
 - Contributing to **open-source projects**
 
 ## 📫 Connect with Me
-- **Email:** eslewis.dev@gmail.com
 - **LinkedIn:** www.linkedin.com/in/ethanstonelewis
 
 
