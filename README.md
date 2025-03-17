@@ -8,7 +8,7 @@ I'm a **software developer** with a strong interest in **AI, Machine Learning, a
 - **Frameworks:** Flask, PyTorch (learning)
 - **Cloud & Containers:** Docker, Kubernetes, GCP (GKE, Cloud Run)
 - **Embedded Systems:** Raspberry Pi
-- **Other Tools:** Git, Linux, PowerShell
+- **Other Tools:** Git, Linux, PowerShell, Jenkins (learning)
 
 ## 🌿 Growing & Learning
 - Deepening my knowledge in **AI & Machine Learning**
