@@ -16,7 +16,6 @@ I'm a programmer with a strong interest in **AI, Machine Learning, and backend d
 - Contributing to **open-source projects**
 
 ## 📫 Connect with Me
-- **LinkedIn:** [linkedin.com/in/ethanstonelewis](#)
 - **Email:** eslewis.dev@gmail.com
 
 
