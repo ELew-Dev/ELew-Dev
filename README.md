@@ -21,7 +21,6 @@ Currently pursuing my **Master’s in Computer Science** with a concentration in
 ## 🔍 Goals
 - Break into a **Cloud Engineer or SRE role** within the next year
 - Build real-world projects that showcase automation, deployment, and troubleshooting
-- Eventually offer **independent DevOps and cloud services**
 - Grow deeper expertise in **Linux systems and cloud architecture**
 
 ## 📫 Connect with Me
