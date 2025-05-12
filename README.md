@@ -1,29 +1,32 @@
 # Hey there, I'm Ethan! 👋
 
 ## 💡 About Me
-I'm a **software developer** with a strong interest in **AI, Machine Learning, and backend development**. I enjoy figuring out how things work, optimizing systems, and diving into **algorithms, discrete structures, and security**. Currently, I'm pursuing my **Master's in Computer Science** with a concentration in **Software Engineering**, refining my skills in Python, containerization, and cloud technologies.
+I'm an **IT Support Specialist transitioning into Cloud Engineering and Site Reliability Engineering (SRE)**. With a strong foundation in systems administration and troubleshooting, I'm now focused on building **cloud-native infrastructure**, **automation pipelines**, and **monitoring systems** using tools like Python, Docker, and Google Cloud Platform (GCP).
+
+Currently pursuing my **Master’s in Computer Science** with a concentration in **Software Engineering**, I'm learning by doing — deploying services, writing scripts, and working through hands-on labs to grow into a capable SRE/DevOps professional.
 
 ## 🔧 Technologies & Tools
-- **Languages:** Python, Rust (learning), Go (learning), JavaScript
-- **Frameworks:** Flask, PyTorch (learning)
-- **Cloud & Containers:** Docker, Kubernetes, GCP (GKE, Cloud Run)
-- **Embedded Systems:** Raspberry Pi
-- **Other Tools:** Git, Linux, PowerShell, Jenkins (learning)
+- **Languages:** Python, Go (learning)
+- **Cloud Platforms:** GCP (Cloud Run, GKE), AWS (Cloud Practitioner Essentials)
+- **Containers & OS:** Docker, Linux (Ubuntu), Git
+- **CI/CD & Infrastructure:** GitHub Actions, Terraform (learning), Jenkins (learning)
+- **Support Tools:** PowerShell, Active Directory, Office 365 Admin
 
-## 🌿 Growing & Learning
-- Deepening my knowledge in **AI & Machine Learning**
-- Exploring **Kubernetes & GCP (GKE, Cloud Run, etc.)**
-- Strengthening my understanding of **algorithms, discrete structures, and security**
-- Contributing to **open-source projects**
+## 🌱 Currently Learning
+- Deploying containerized apps on GCP
+- Automating infrastructure with Terraform
+- System monitoring and logging with Prometheus & Grafana
+- Scripting solutions in Python for IT workflows
+
+## 🔍 Goals
+- Break into a **Cloud Engineer or SRE role** within the next year
+- Build real-world projects that showcase automation, deployment, and troubleshooting
+- Eventually offer **independent DevOps and cloud services**
+- Grow deeper expertise in **Linux systems and cloud architecture**
 
 ## 📫 Connect with Me
-- **LinkedIn:** www.linkedin.com/in/ethanstonelewis
-
-
-
-
-
-
+- **LinkedIn:** [linkedin.com/in/ethanstonelewis](https://www.linkedin.com/in/ethanstonelewis)
+- **GitHub Projects:** [github.com/ELew-Dev](https://github.com/ELew-Dev)
 
 
 
