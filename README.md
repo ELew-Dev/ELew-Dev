@@ -14,7 +14,7 @@ Currently focused on:
 - **Languages:** Python (core), basic Go (learning)
 - **AI Tools:** LangChain, OpenAI API, Hugging Face, Pipedream
 - **Cloud & Infra:** AWS (SAA cert in progress), GCP (Colab, Cloud Run), Docker
-- **Data & ML:** Pandas, NumPy, Scikit-learn, Pinecone, RAG
+- **Data & ML:** Pandas, NumPy, Scikit-learn, Pinecone
 - **Dev Tools:** VS Code, GitHub, Jupyter, Retool
 
 
