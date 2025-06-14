@@ -1,32 +1,37 @@
-# Hey there, I'm Ethan! 👋
+# 👋 Hey, I’m Ethan
 
-## 💡 About Me
-I'm an **IT Support Specialist transitioning into Cloud Engineering and Site Reliability Engineering (SRE)**. With a strong foundation in systems administration and troubleshooting, I'm now focused on building **cloud-native infrastructure**, **automation pipelines**, and **monitoring systems** using tools like Python, Docker, and Google Cloud Platform (GCP).
+## 🧠 Human-Centered AI | Systems Thinker | Builder
 
-Currently pursuing my **Master’s in Computer Science** with a concentration in **Software Engineering**, I'm learning by doing — deploying services, writing scripts, and working through hands-on labs to grow into a capable SRE/DevOps professional.
+I'm a CS Master's student (AI concentration) with a background in Communications and a growing portfolio of projects at the intersection of **AI, behavior, and human experience**. My work explores how we can design tools that don’t just *function*—but actually *serve people* in meaningful ways.
 
-## 🔧 Technologies & Tools
-- **Languages:** Python, Go (learning)
-- **Cloud Platforms:** GCP (Cloud Run, GKE), AWS (Cloud Practitioner Essentials)
-- **Containers & OS:** Docker, Linux (Ubuntu), Git
-- **CI/CD & Infrastructure:** GitHub Actions, Terraform (learning), Jenkins (learning)
-- **Support Tools:** PowerShell, Active Directory, Office 365 Admin
+Currently focused on:
+- Building a **Journaling Chatbot** that promotes emotional clarity and self-coaching
+- Studying for the **AWS Solutions Architect – Associate** certification
+- Learning Python deeply, and applying it to intelligent systems, automation, and backend tools
 
-## 🌱 Currently Learning
-- Deploying containerized apps on GCP
-- Automating infrastructure with Terraform
-- System monitoring and logging with Prometheus & Grafana
-- Scripting solutions in Python for IT workflows
 
-## 🔍 Goals
-- Break into a **Cloud Engineer or SRE role** within the next year
-- Build real-world projects that showcase automation, deployment, and troubleshooting
-- Grow deeper expertise in **Linux systems and cloud architecture**
+## 🛠 Tech I’m Using & Learning
+- **Languages:** Python (core), basic Go (learning)
+- **AI Tools:** LangChain, OpenAI API, Hugging Face, Pipedream
+- **Cloud & Infra:** AWS (SAA cert in progress), GCP (Colab, Cloud Run), Docker
+- **Data & ML:** Pandas, NumPy, Scikit-learn, Pinecone, RAG
+- **Dev Tools:** VS Code, GitHub, Jupyter, Retool
 
-## 📫 Connect with Me
+
+## 🧭 Guiding Question:
+> “Do you want to engineer AI systems… or do you want to understand how they reshape humanity?”  
+> I’m choosing both.
+
+
+## 📌 Goals
+- Ship projects that blend **technical depth with behavioral insight**
+- Build a career around **education, systems thinking, and tech that empowers people**
+- Land a remote-friendly role that bridges **AI, cloud architecture, and user-facing problem solving**
+
+
+## 🔗 Connect
 - **LinkedIn:** [linkedin.com/in/ethanstonelewis](https://www.linkedin.com/in/ethanstonelewis)
 - **GitHub Projects:** [github.com/ELew-Dev](https://github.com/ELew-Dev)
-
 
 
 
