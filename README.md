@@ -18,11 +18,6 @@ Currently focused on:
 - **Dev Tools:** VS Code, GitHub, Jupyter, Retool
 
 
-## 🧭 Guiding Question:
-> “Do you want to engineer AI systems… or do you want to understand how they reshape humanity?”  
-> I’m choosing both.
-
-
 ## 📌 Goals
 - Ship projects that blend **technical depth with behavioral insight**
 - Build a career around **education, systems thinking, and tech that empowers people**
