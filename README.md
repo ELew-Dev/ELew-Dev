@@ -1,5 +1,3 @@
-# 👋 Hey, I’m Ethan
-
 # Hi, I'm Ethan 👋
 
 Early-career Software Engineer with experience building internal tools, automating workflows, and deploying web applications in real-world environments. Currently pursuing an MS in Computer Science (Software Engineering) and developing projects focused on backend systems, cloud deployment, and applied AI.
