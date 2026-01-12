@@ -1,27 +1,49 @@
 # 👋 Hey, I’m Ethan
 
-## 🧠 Human-Centered AI | Systems Thinker | Builder
+# Hi, I'm Ethan 👋
 
-I'm a CS Master's student (AI concentration) with a background in Communications and a growing portfolio of projects at the intersection of **AI, behavior, and human experience**. My work explores how we can design tools that don’t just *function*—but actually *serve people* in meaningful ways.
-
-Currently focused on:
-- Building a **Journaling Chatbot** that promotes emotional clarity and self-coaching
-- Studying for the **AWS Solutions Architect – Associate** certification
-- Learning Python deeply, and applying it to intelligent systems, automation, and backend tools
+Early-career Software Engineer with experience building internal tools, automating workflows, and deploying web applications in real-world environments. Currently pursuing an MS in Computer Science (Software Engineering) and developing projects focused on backend systems, cloud deployment, and applied AI.
 
 
-## 🛠 Tech I’m Using & Learning
-- **Languages:** Python (core), basic Go (learning)
-- **AI Tools:** LangChain, OpenAI API, Hugging Face, Pipedream
-- **Cloud & Infra:** AWS (SAA cert in progress), GCP (Colab, Cloud Run), Docker
-- **Data & ML:** Pandas, NumPy, Scikit-learn, Pinecone
-- **Dev Tools:** VS Code, GitHub, Jupyter, Retool
+## 🔧 What I’m Working On
+
+- Building AI-assisted tools that support clarity, reflection, and decision-making (e.g. a journaling chatbot with human-in-the-loop design)
+- Strengthening Python skills through backend services, automation, and applied AI projects
+- Learning cloud infrastructure and deployment workflows
+- Preparing for the AWS Solutions Architect – Associate certification
 
 
-## 📌 Goals
-- Ship projects that blend **technical depth with behavioral insight**
-- Build a career around **education, systems thinking, and tech that empowers people**
-- Land a remote-friendly role that bridges **AI, cloud architecture, and user-facing problem solving**
+## 🛠 Technologies & Tools
+
+**Languages & Frameworks**
+- Python (Flask, Django)
+- JavaScript (fundamentals)
+
+**Web & APIs**
+- RESTful API development
+- HTML, CSS
+
+**Cloud & DevOps**
+- Docker, Kubernetes
+- GCP (Cloud Run, GKE, Colab)
+- AWS (in progress)
+
+**AI / Data**
+- OpenAI API, LangChain, Hugging Face
+- Pandas, NumPy, scikit-learn
+- Vector databases (Pinecone)
+
+**Developer Tools**
+- Git, GitHub
+- VS Code, Jupyter
+- Retool, Pipedream
+
+
+## 🎯 Goals
+
+- Ship practical software that solves real problems and holds up in real environments
+- Grow into a product-focused software engineering role with exposure to cloud systems
+- Join a remote-friendly team that values learning, ownership, and clear communication
 
 
 ## 🔗 Connect
