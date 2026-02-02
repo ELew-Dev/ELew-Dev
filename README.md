@@ -1,52 +1,35 @@
 # Hi, I'm Ethan 👋
 
-Early-career Software Engineer with experience building internal tools, automating workflows, and deploying web applications in real-world environments. Currently pursuing an MS in Computer Science (Software Engineering) and developing projects focused on backend systems, cloud deployment, and applied AI.
+I’m a software engineer and computational researcher exploring complex systems through code, visualization, and applied analysis. My work sits at the intersection of technology, data, and real-world observation, with current projects investigating patterns in astronomy and other phenomena. I focus on building tools and projects that combine technical rigor with curiosity-driven exploration.
 
 
 ## 🔧 What I’m Working On
-
-- Building AI-assisted tools that support clarity, reflection, and decision-making (e.g. a journaling chatbot with human-in-the-loop design)
-- Strengthening Python skills through backend services, automation, and applied AI projects
-- Learning cloud infrastructure and deployment workflows
-- Preparing for the AWS Solutions Architect – Associate certification
+- **The Living Sky** – Investigating stellar motion and constellations over time using real astronomical datasets. Visualizing patterns and temporal changes to explore assumptions about permanence in the night sky.  
+- Strengthening Python skills through data analysis, scientific computing, and visualization.  
+- Learning cloud infrastructure and deployment workflows (basic usage, optional).
 
 
 ## 🛠 Technologies & Tools
 
-**Languages & Frameworks**
-- Python (Flask, Django)
-- JavaScript (fundamentals)
+**Languages & Frameworks**  
+- Python  
 
-**Web & APIs**
-- RESTful API development
-- HTML, CSS
+**Data & Scientific Computing**  
+- Pandas, NumPy, scikit-learn  
+- Astropy, Skyfield  
+- Matplotlib, Plotly  
 
-**Cloud & DevOps**
-- Docker, Kubernetes
-- GCP (Cloud Run, GKE, Colab)
-- AWS (in progress)
-
-**AI / Data**
-- OpenAI API, LangChain, Hugging Face
-- Pandas, NumPy, scikit-learn
-- Vector databases (Pinecone)
-
-**Developer Tools**
-- Git, GitHub
-- VS Code, Jupyter
-- Retool, Pipedream
+**Developer Tools**  
+- Git, GitHub  
+- VS Code, Jupyter  
 
 
 ## 🎯 Goals
+- Build projects that combine coding, data, and visualization to explore real-world systems.  
+- Translate complex data into clear, interpretable insights.  
+- Develop a portfolio demonstrating both technical skill and independent research.  
+- Grow into roles that allow both technical problem-solving and conceptual thinking.
 
-- Ship practical software that solves real problems and holds up in real environments
-- Grow into a product-focused software engineering role with exposure to cloud systems
-- Join a remote-friendly team that values learning, ownership, and clear communication
-
-
-## 🔗 Connect
-- **LinkedIn:** [linkedin.com/in/ethanstonelewis](https://www.linkedin.com/in/ethanstonelewis)
-- **GitHub Projects:** [github.com/ELew-Dev](https://github.com/ELew-Dev)
 
 
 
