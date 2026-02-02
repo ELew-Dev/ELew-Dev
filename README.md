@@ -1,6 +1,6 @@
 # Hi, I'm Ethan 👋
 
-I’m a software engineer and computational researcher exploring complex systems through code, visualization, and applied analysis. My work sits at the intersection of technology, data, and real-world observation, with current projects investigating patterns in astronomy and other phenomena. I focus on building tools and projects that combine technical rigor with curiosity-driven exploration.
+I like exploring how things work — especially the night sky — using Python and data. I build small projects and visualizations to see patterns, test ideas, and keep track of what I learn. Right now, I’m focused on astronomy, coding, and making notebooks that combine research with hands-on experimentation.
 
 
 ## 🔧 What I’m Working On
