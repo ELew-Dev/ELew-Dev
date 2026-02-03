@@ -1,6 +1,6 @@
 # Hi, I'm Ethan 👋
 
-I like exploring how things work — especially the night sky, using Python and data. I build small projects and visualizations to see patterns, test ideas, and keep track of what I learn. Right now, I’m focused on astronomy, coding, and making notebooks that combine research with hands-on experimentation.
+I like exploring how things work, especially the night sky, using Python and data. I build small projects and visualizations to see patterns, test ideas, and keep track of what I learn. Right now, I’m focused on astronomy, coding, and making notebooks that combine research with hands-on experimentation.
 
 
 ## 🔧 What I’m Working On
