@@ -21,6 +21,3 @@ I am a Software Engineer and Data Specialist focused on exploring complex system
 * **Independent Research:** Developing a portfolio that demonstrates both technical execution and the ability to self-direct through deep-domain topics (Astronomy, Cosmology, Physics).
 * **Technical Problem Solving:** Growing into roles that require a balance of conceptual thinking and robust software engineering.
 
----
-*“Translating the abstract into the interpretable, one dataset at a time.”*
-
