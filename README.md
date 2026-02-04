@@ -6,7 +6,7 @@ I like exploring how things work, especially the night sky, using Python and dat
 ## 🔧 What I’m Working On
 - **The Living Sky** – Investigating stellar motion and constellations over time using real astronomical datasets. Visualizing patterns and temporal changes to explore assumptions about permanence in the night sky.  
 - Strengthening Python skills through data analysis, scientific computing, and visualization.  
-- Learning cloud infrastructure and deployment workflows (basic usage, optional).
+- Learning cloud infrastructure and deployment workflows (basic usage)
 
 
 ## 🛠 Technologies & Tools
