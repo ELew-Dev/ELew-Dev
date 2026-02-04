@@ -1,36 +1,26 @@
-# Hi, I'm Ethan 👋
+# Hi, I’m Ethan 🌌
 
-I like exploring how things work, especially the night sky, using Python and data. I build small projects and visualizations to see patterns, test ideas, and keep track of what I learn. Right now, I’m focused on astronomy, coding, and making notebooks that combine research with hands-on experimentation.
+I am a Software Engineer and Data Specialist focused on exploring complex systems through Python and data visualization. I build projects that bridge the gap between independent research and hands-on technical experimentation.
 
+### 🔭 Current Focus
+* **The Living Sky:** Developing a kinematic simulation to model stellar motion over secular timescales. I use real-world astronomical datasets to visualize the "shear" of constellations, challenging the assumption of a static night sky.
+* **Scientific Computing:** Strengthening my Python workflow with a focus on data analysis, visualization, and computational physics.
+* **Cloud & Deployment:** Exploring foundational cloud infrastructure and automated deployment workflows.
 
-## 🔧 What I’m Working On
-- **The Living Sky** – Investigating stellar motion and constellations over time using real astronomical datasets. Visualizing patterns and temporal changes to explore assumptions about permanence in the night sky.  
-- Strengthening Python skills through data analysis, scientific computing, and visualization.  
-- Learning cloud infrastructure and deployment workflows (basic usage)
+### 🛠 Technical Toolkit
 
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | Python, SQL |
+| **Data & Science** | Pandas, NumPy, scikit-learn, Astropy, Skyfield |
+| **Visualization** | Matplotlib, Plotly |
+| **DevOps & Tools** | Git, GitHub, VS Code, Jupyter, Virtual Environments (venv) |
 
-## 🛠 Technologies & Tools
+### 🎯 Professional Goals
+* **System Modeling:** Building data-driven visualizations to translate complex, multi-dimensional systems into interpretable insights.
+* **Independent Research:** Developing a portfolio that demonstrates both technical execution and the ability to self-direct through deep-domain topics (Astronomy, Cosmology, Physics).
+* **Technical Problem Solving:** Growing into roles that require a balance of conceptual thinking and robust software engineering.
 
-**Languages & Frameworks**  
-- Python  
-
-**Data & Scientific Computing**  
-- Pandas, NumPy, scikit-learn  
-- Astropy, Skyfield  
-- Matplotlib, Plotly  
-
-**Developer Tools**  
-- Git, GitHub  
-- VS Code, Jupyter  
-
-
-## 🎯 Goals
-- Build projects that combine coding, data, and visualization to explore real-world systems.  
-- Translate complex data into clear, interpretable insights.  
-- Develop a portfolio demonstrating both technical skill and independent research.  
-- Grow into roles that allow both technical problem-solving and conceptual thinking.
-
-
-
-
+---
+*“Translating the abstract into the interpretable, one dataset at a time.”*
 
