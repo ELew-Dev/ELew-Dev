@@ -5,7 +5,7 @@ I am an IT Support Specialist and Software Engineer focused on improving workflo
 ---
 
 ## 🎓 Education & Research
-**M.S. in Computer Science (Candidate)** | Merrimack College | Expected Dec 2026  
+**M.S. in Computer Science (Candidate)** | Merrimack College | Expected August 2026  
 Concentration: Software Engineering & Artificial Intelligence  
 
 ---
